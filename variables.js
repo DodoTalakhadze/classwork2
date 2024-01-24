@@ -44,7 +44,7 @@
 // children.push("cotniko"); //დამატება
 // let child = promt("enter child name")
 // console.log(child);
-
+//key is unic
 // children.pop(); //წაშლა
 
 // console.log(children);
